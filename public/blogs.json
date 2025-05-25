@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "cover":"https://i.ibb.co/4gsKhdzj/cover2.jpg",
+        "title": "Top 10 ES6 Feature",
+        "author_img":"https://i.ibb.co/nqRQWJrb/img2.jpg",
+        "author": "Robert Zack",
+        "posted_date":"January",
+        "reading_time": 5,
+        "hashtags":[
+            "beginners",
+            "es6"
+        ]
+
+    },
+    {
+        "id": 2,
+        "cover":"https://i.ibb.co/Vcx5xtK5/cover3.jpg",
+        "title": "React Learner",
+        "author_img":"https://i.ibb.co/twvsxmS8/img3.jpg",
+        "author": "JN Tarek",
+        "posted_date":"February",
+        "reading_time": 5,
+        "hashtags":[
+            "beginners",
+            "react",
+            "Useful"
+        ]
+
+    },
+    {
+        "id": 3,
+        "cover":"https://i.ibb.co/Lhnc59Md/cover4.png",
+        "title": "CSS Feature",
+        "author_img":"https://i.ibb.co/RGFTfW0T/img4.png",
+        "author": "Roberto",
+        "posted_date":"April",
+        "reading_time": 4,
+        "hashtags":[
+            "Middle",
+            "CSS",
+            "Learning"
+        ]
+
+    },
+    {
+        "id": 4,
+        "cover":"https://i.ibb.co/whs89RGX/cover5.jpg",
+        "title": "Top 10 HTML5",
+        "author_img":"https://i.ibb.co/p60dRWT8/img5.jpg",
+        "author": "Bappa",
+        "posted_date":"January",
+        "reading_time": 2,
+        "hashtags":[
+            "beginners",
+            "html",
+            "Coding"
+        ]
+
+    },
+    {
+        "id": 5,
+        "cover":"https://i.ibb.co/Lhnc59Md/cover4.png",
+        "title": "Javascript",
+        "author_img":"https://i.ibb.co/twvsxmS8/img3.jpg",
+        "author": "Julkar Nine",
+        "posted_date":"March",
+        "reading_time": 6,
+        "hashtags":[
+            "beginners",
+            "js",
+            "Most useful"
+        ]
+
+    }
+]
